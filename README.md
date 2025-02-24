@@ -1,8 +1,6 @@
 # Mazen Alziq: Simple Content-Based Recommendation System
 
 
----
-
 ## Dataset
 
 Data was found on *Kaggle*. To download it, you can go onto [Kaggle.com/datasets](Kaggle.com/datasets), type in "IMDB Movies Dataset", and simply click download in the top right corner.
@@ -25,8 +23,13 @@ Output:
 
 Top Movie Recommendations:
 The Message (Biography, Drama, History): 23.07% similarity
+
 Les quatre cents coups (Crime, Drama): 14.75% similarity
+
 Laura (Drama, Film-Noir, Mystery): 13.32% similarity
+
 Du rififi chez les hommes (Crime, Drama, Thriller): 13.06% similarity
+
 Dilwale Dulhania Le Jayenge (Drama, Romance): 12.94% similarity
+
 
