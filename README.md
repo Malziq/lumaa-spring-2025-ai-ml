@@ -32,6 +32,6 @@ Top Movie Recommendations:
 
 * Du rififi chez les hommes (Crime, Drama, Thriller): 13.06% similarity
 
-* Dilwale Dulhania Le Jayenge (Drama, Romance): 12.94% similarity`
+* Dilwale Dulhania Le Jayenge (Drama, Romance): 12.94% similarity
 
 
