@@ -17,10 +17,11 @@ The Jupyter notebook can be ran in any IDE that supports Jupyter, such as PyChar
 
 ## Results
 
-Prompt: "I really love crime and drama movies"
+**Prompt:** "I really love crime and drama movies"
 
 
-Output:
+
+**Output:**
 
 Top Movie Recommendations:
 * The Message (Biography, Drama, History): 23.07% similarity
