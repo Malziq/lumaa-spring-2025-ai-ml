@@ -1,6 +1,5 @@
-# AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
+# Mazen Alziq: Simple Content-Based Recommendation System
 
-**Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
 
@@ -20,14 +19,14 @@ The Jupyter notebook can be ran in any IDE that supports Jupyter, such as PyChar
 
 ## Results
 
-Prompt: `"I really love crime and drama movies"`
+Prompt: "I really love crime and drama movies"
 
 Output:
 
-`Top Movie Recommendations:
+Top Movie Recommendations:
 The Message (Biography, Drama, History): 23.07% similarity
 Les quatre cents coups (Crime, Drama): 14.75% similarity
 Laura (Drama, Film-Noir, Mystery): 13.32% similarity
 Du rififi chez les hommes (Crime, Drama, Thriller): 13.06% similarity
-Dilwale Dulhania Le Jayenge (Drama, Romance): 12.94% similarity`
+Dilwale Dulhania Le Jayenge (Drama, Romance): 12.94% similarity
 
